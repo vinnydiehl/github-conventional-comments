@@ -6,3 +6,8 @@ Adds a control in the GitHub comment toolbar to insert pre-defined labels, à la
 Inspired by Nicolas Chevobbe's
 [phab-conventional-comments](https://github.com/nchevobbe/phab-conventional-comments)
 extension for [Mozilla's Phabricator](https://phabricator.services.mozilla.com/).
+
+## Installation
+
+Install via
+[AMO](https://addons.mozilla.org/en-US/firefox/addon/github-conventional-comments/).
